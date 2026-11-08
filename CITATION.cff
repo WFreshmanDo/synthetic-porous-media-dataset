@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the following metadata."
+type: dataset
+title: "Synthetic Porous Media Image Dataset"
+authors:
+  - family-names: Wang
+    given-names: Fengrui
+version: 1.0.0
+date-released: "2026-11-08"
+license: CC-BY-4.0
+url: "https://github.com/WFreshmanDo/synthetic-porous-media-dataset"
+repository-artifact: "https://github.com/WFreshmanDo/synthetic-porous-media-dataset/releases/tag/v1.0.0"
+abstract: "A dataset of 2,000 two-dimensional synthetic porous-media binary images paired with porosity and COMSOL-derived left-to-right permeability labels."
+keywords:
+  - porous media
+  - permeability
+  - synthetic dataset
+  - binary images
+  - machine learning
